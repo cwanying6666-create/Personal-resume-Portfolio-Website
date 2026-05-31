@@ -209,6 +209,3 @@ Skill 会按以下流程工作：
 - 新建项目时：Node.js（用于 React + Vite 开发服务）
 - 个人照片建议提供去背景 PNG；微信图标默认使用 `/wx.svg`
 
-## Credits
-
-Inspired by the agent-skill packaging approach of [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) by [@zarazhangrui](https://github.com/zarazhangrui).
