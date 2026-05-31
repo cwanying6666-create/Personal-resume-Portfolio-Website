@@ -1,0 +1,8 @@
+interface:
+  display_name: "个人简历作品集网站"
+  short_description: "生成设计师个人简历与作品集网站"
+  brand_color: "#B600A8"
+  default_prompt: "使用 $personal-portfolio-website 帮我采集作品集内容，并生成一个设计师个人简历作品集网站。"
+
+policy:
+  allow_implicit_invocation: true
