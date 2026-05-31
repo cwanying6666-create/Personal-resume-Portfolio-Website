@@ -10,7 +10,7 @@
 
 这里是一个通过本 skill 生成的网站演示视频：
 
-https://github.com/user-attachments/assets/ef57333e-f879-432a-afb9-180388982478
+<video src="demo.mp4" controls width="100%"></video>
 
 - **内容采集**由 `references/content-prompt.md` 负责——通过自然对话逐步收集个人信息、项目、经历与联系方式。
 - **视觉与布局**由 `references/design.md` 负责——暗色高级、强排版、专业克制，无需用户描述审美偏好。
